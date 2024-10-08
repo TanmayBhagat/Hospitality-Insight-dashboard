@@ -51,3 +51,7 @@ Download the dataset and report files from the Downloads Section:
 Open the Power BI report to interact with the dashboard and explore the insights.
 
 ![Revenue Insights GIF](https://github.com/TanmayBhagat/Hospitality-Insight-dashboard/blob/3ac28a599b1c7fb64915dec77e36f6120a695bda/revenue%20insight%20hospitality%20domain.gif)
+
+---
+
+### 📂 My Portfolio: [Tanmay Bhagat's Portfolio](https://codebasics.io/portfolio/Tanmay-Bhagat)
